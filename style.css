@@ -60,7 +60,7 @@ h2 {
 .features p {
   display: inline-block;
   vertical-align: top;
-  width: 30%;
+  width: 20%;
   margin: 0 5px;
   background-repeat: no-repeat;
   background-position: center top;
@@ -84,7 +84,7 @@ h2 {
 
 .feature-bea{
   padding-top: 65px;
-  background-image: url("bea.svg");
+  background-image: url("img/bea.svg");
 }
 
 .advantages {
